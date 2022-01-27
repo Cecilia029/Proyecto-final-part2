@@ -1,0 +1,30 @@
+.body{
+    background-color: violet;
+}
+
+.servicios2{
+    display: table;
+        background-color: rgb(240, 183, 183);
+        font-family: fantasy ;
+}
+.ofrecemos{
+    font-style: italic
+}
+.perfilado{
+    display: table;
+        background-color: rgb(240, 183, 183);
+        font-family: fantasy ;}
+
+.laminado{display: table;
+    background-color: rgb(240, 183, 183);
+    font-family: fantasy ;}
+
+.lifting{display: table;
+    background-color: rgb(240, 183, 183);
+    font-family: fantasy ;}
+
+    .depilacion{
+        display: table;
+        background-color: rgb(240, 183, 183);
+        font-family: fantasy ;
+    }
